@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://hernansingh.github.io/reviews/"  target="_blank">
+    <a href="https://hernansingh.github.io/reviews/" target="_blank">
       Result
     </a>
     <span> | </span>
