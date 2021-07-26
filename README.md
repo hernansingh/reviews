@@ -6,15 +6,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://hernansingh.github.io/reviews/">
+    <a href="https://hernansingh.github.io/reviews/"  target="_blank">
       Result
     </a>
     <span> | </span>
-    <a href="https://vanilla-js-basic-project-3-reviews.netlify.app/">
+    <a href="https://vanilla-js-basic-project-3-reviews.netlify.app/" target="_blank">
       Demo
     </a>
     <span> | </span>
-    <a href="https://www.youtube.com/watch?v=3PHXvlpOkf4&t=2644s">
+    <a href="https://www.youtube.com/watch?v=3PHXvlpOkf4&t=2644s" target="_blank">
       Tutorial
     </a>
   </h3>
